@@ -25,7 +25,7 @@ git clone https://github.com/RuthInTech/FileOrg.git
 Navigate to the project directory:
 
 bash
-Copy code
+
 cd FileOrg
 Make sure Python is installed (Python 3.x recommended).
 
@@ -33,7 +33,7 @@ Usage
 Run the script:
 
 bash
-Copy code
+
 python file_organizer.py
 Enter the folder path you want to organize when prompted.
 
@@ -43,7 +43,6 @@ Example
 Before running the script:
 
 css
-Copy code
 Downloads/
 ├─ photo.jpg
 ├─ video.mp4
